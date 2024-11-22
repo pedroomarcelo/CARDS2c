@@ -18,7 +18,7 @@ criaCartao(
 
 criaCartao(
     'HTML',
-    'Para que serve a tag <a>?',
+    'Para que serve a tag a?',
     'Criar links'
 )
 
